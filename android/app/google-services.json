@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765110367111",
+    "project_id": "bloc-pushnotification",
+    "storage_bucket": "bloc-pushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765110367111:android:489749bc5483e416d25922",
+        "android_client_info": {
+          "package_name": "com.example.bloc_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765110367111-fvgbitcpo08tvbc864m3nr9pqm8doo2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsxLVCSowTE_8is7zaDfryZBFmWOHKKKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765110367111-fvgbitcpo08tvbc864m3nr9pqm8doo2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
