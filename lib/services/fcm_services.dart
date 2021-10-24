@@ -9,7 +9,7 @@ import 'package:bloc_chat/data/repositories/user_repo.dart';
 import 'package:bloc_chat/services/local_notification_service.dart';
 
 String serverToken =
-    'your_fcm_server_token';
+    'AAAAsiQhs4c:APA91bHRwkcaCthXTMfGc5B6HdS_SzGeJw34LNy894-ZUjeLg8V0Qqc93TTxQNYLHPodhjdhh-cdDC-U3w0DGXIjVoSalFTHmvHO0q0GMi_CQnKgr3zzitVgC1nKyOedAC0fEUfpVWoT';
 
 Future<void> backgroundHandler(RemoteMessage message) async {
   print('fcm_services/backgroundHandler: msg: ${message.notification!.title}');
